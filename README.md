@@ -1,20 +1,27 @@
-# tienda_clase1
-# Ejercicio 2: Sistema de Tienda Online
-# Objetivo: Crear una estructura para una tienda online con productos, pedidos y clientes.
+Desarrollo de Aplicaciones con Acceso a Datos - 4E
+Profesor: Eduardo Pimienta
+Universidad: Universidad Americana
 
-# Requerimientos:
-# La tienda debe tener:
+Descripción del curso:
 
-# Lista de productos (id, nombre, precio y stock).
+Este curso se centra en el desarrollo de aplicaciones que interactúan con bases de datos, proporcionando a los estudiantes las habilidades necesarias para diseñar, implementar y gestionar sistemas de bases de datos eficientes y seguros. A lo largo del curso, se explorarán los siguientes temas:
 
-# Lista de pedidos (id_pedido, cliente, productos solicitados y estado).
+Fundamentos de bases de datos relacionales y no relacionales.
+Diseño y normalización de bases de datos.
+Lenguaje SQL y consultas avanzadas.
+Integración de bases de datos en aplicaciones web y móviles.
+Técnicas de optimización y seguridad de bases de datos.
+Uso de ORM (Object-Relational Mapping) en el desarrollo de aplicaciones.
+Prácticas de desarrollo ágil y gestión de proyectos.
+Objetivos del curso:
 
-# Clientes registrados (nombre, email y dirección).
+Comprender los principios fundamentales de las bases de datos y su aplicación en el desarrollo de software.
+Desarrollar habilidades prácticas en el diseño y gestión de bases de datos.
+Implementar aplicaciones que accedan y manipulen datos de manera eficiente.
+Aplicar técnicas de seguridad para proteger la integridad y confidencialidad de los datos.
+Utilizar herramientas y frameworks modernos para el desarrollo de aplicaciones con acceso a datos.
+Requisitos previos:
 
-# 📌 Reto extra:
-
-# Agrega un nuevo producto (ej: "Pantalón", $39.99, stock 75).
-
-# Cambia el estado del pedido 101 a "Entregado".
-
-# Encuentra todos los pedidos de un cliente específico por email.
+Conocimientos básicos de programación.
+Familiaridad con conceptos de bases de datos.
+Espero que esta descripción sea útil para tu repositorio de GitHub. ¿Hay algo más en lo que pueda ayudarte?
